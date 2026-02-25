@@ -7,7 +7,7 @@ Este proyecto se centra en la **Vuelta a España**, una de las competiciones de 
 
 ---
 
-## 📂 Contenido del repositorio
+##  Contenido del repositorio
 
 - `20 preguntas.pdf`: Cuestionario con preguntas clave sobre el diseño e implementación del sistema.
 - `HISTORIAS DE USUARIO.pdf`: Requisitos funcionales expresados como historias de usuario.
@@ -17,15 +17,14 @@ Este proyecto se centra en la **Vuelta a España**, una de las competiciones de 
 - `script_Funciones&Vistas_vueltaEspaña.sql`: Script para la creación de funciones y vistas para consultas avanzadas.
 
 ---
-
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - **PostgreSQL** – Sistema de gestión de bases de datos relacional.
 - **SQL** – Lenguaje para definición, manipulación y consulta de datos.
 
 ---
 
-## 📦 Cómo usar este proyecto
+##  Cómo usar este proyecto
 
 1. Clona el repositorio:
 
